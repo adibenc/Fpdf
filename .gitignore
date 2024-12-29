@@ -21,3 +21,4 @@ files
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+[Dd]my*
