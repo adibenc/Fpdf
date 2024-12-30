@@ -1,5 +1,5 @@
 {
-  "name": "fpdf/fpdf",
+  "name": "fpdf/fpdfb",
   "homepage": "https://github.com/coreydoughty/Fpdf",
   "description": "FPDF Composer Wrapper",
   "keywords": ["fpdf", "pdf", "wrapper"],
